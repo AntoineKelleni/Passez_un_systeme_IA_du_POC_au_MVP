@@ -1,1 +1,0 @@
-# Passez_un_systeme_IA_du_POC_au_MVP
