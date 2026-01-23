@@ -52,7 +52,7 @@ Cette approche permet de :
 ```
 ---
 
-## 🧪 Phase 1 – Proof of Concept (POC)
+## Phase 1 – Proof of Concept (POC)
 
 ### Objectifs du POC
 ```
