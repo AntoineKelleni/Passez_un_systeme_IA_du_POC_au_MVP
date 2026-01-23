@@ -13,10 +13,10 @@
 
 # Puls-Events – Chatbot RAG (POC → MVP)
 <p align="center">
-  <img src="img/phase du projet.png" alt="Logo OpenClassrooms" width="750">
+  <img src="img/phase du projet.png" alt="Logo OpenClassrooms" width="1000">
 </p>
 <p align="center">
-  <img src="img/architecture MVP.png" alt="Logo OpenClassrooms" width="750">
+  <img src="img/architecture MVP.png" alt="Logo OpenClassrooms" width="1000">
 </p>
 
 Chatbot de recommandation d’événements culturels basé sur une approche **Retrieval-Augmented Generation (RAG)**.  
@@ -52,7 +52,7 @@ Cette approche permet de :
 ```
 ---
 
-## Phase 1 – Proof of Concept (POC)
+## 🧪 Phase 1 – Proof of Concept (POC)
 
 ### Objectifs du POC
 ```
@@ -231,6 +231,5 @@ Ces éléments permettent d’itérer rapidement et de sécuriser la production.
 
 Ce projet illustre une démarche complète de **Data Engineering**, depuis la validation technique d’un **POC** jusqu’à la conception d’un **MVP structuré, scalable et orienté production**.  
 Il met en évidence la capacité à prendre en compte les contraintes techniques, métier et infrastructure dans une logique de création de valeur.
-
 
 
