@@ -233,3 +233,4 @@ Ce projet illustre une démarche complète de **Data Engineering**, depuis la va
 Il met en évidence la capacité à prendre en compte les contraintes techniques, métier et infrastructure dans une logique de création de valeur.
 
 
+
