@@ -1,3 +1,4 @@
+# Stack technique
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Index-green)
@@ -231,6 +232,7 @@ Ces éléments permettent d’itérer rapidement et de sécuriser la production.
 
 Ce projet illustre une démarche complète de **Data Engineering**, depuis la validation technique d’un **POC** jusqu’à la conception d’un **MVP structuré, scalable et orienté production**.  
 Il met en évidence la capacité à prendre en compte les contraintes techniques, métier et infrastructure dans une logique de création de valeur.
+
 
 
 
